@@ -564,22 +564,22 @@ footer{
 }
 @media only screen and (max-width: 400px){
     .intro{
-        height: 170vh;
+        height: 175vh;
     }
 }
 @media only screen and (max-width: 382px){
     .intro{
-        height: 170vh ;
+        height: 175vh ;
     }
 }
 @media only screen and (max-width: 328px){
     .intro{
-        height: 170vh;
+        height: 175vh;
     }
 }
 @media only screen and (max-width: 828px){
     .intro{
-        height: 180vh;
+        height: 185vh;
     }
 }
 @media only screen and (min-width: 732px){
